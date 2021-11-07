@@ -1,6 +1,6 @@
 # robiNotion
 
-This project is to get stock prices from robinhood account and note them in notion database.
+This project is to get stock info (ticker, no. of shares, current price) from robinhood account and note them in notion database.
 
 # Usage
     1. Go to loginInfo.py and add your username, password and MFA code from robinhood account
