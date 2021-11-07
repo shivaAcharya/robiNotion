@@ -2,6 +2,11 @@
 
 This project is to get stock prices from robinhood account and note them in notion database.
 
+# Usage
+    1. Go to loginInfo.py and add your username, password and MFA code from robinhood account
+    2. Go to pyTion.py and add your tokenV2 from browser cookies and link to the database you want to add
+    3. Execute pyTion.py file and observe the Notion database
+
 # Steps to Project
 
 1. Get dictionary with token as key and stock price as value from robinhood.py
