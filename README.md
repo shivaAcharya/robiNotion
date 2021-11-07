@@ -23,7 +23,7 @@ This project is to get stock prices from robinhood account and note them in noti
 2. get_collection_view method leads to HTTPError - Invalid input
     1. Cause - Some error in source code or Notion API
     2. Solution - Need to use venv with merger of pr #352
-        1. https://github.com/jamalex/notion-py/pull/352
+         https://github.com/jamalex/notion-py/pull/352
 
 # ToDO
 
