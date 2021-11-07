@@ -31,6 +31,6 @@ This project is to get stock prices from robinhood account and note them in noti
 - Work with pages and gmail notes
 - ......
 
-# Inspired from:
+# Inspired From:
  - https://github.com/jamalex/notion-py
  - https://github.com/jmfernandes/robin_stocks
