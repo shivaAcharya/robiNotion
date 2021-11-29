@@ -1,5 +1,5 @@
 import pyotp
-USERNAME = '#######@gmail.com'
+USERNAME = '#######@email.com'
 PASSWORD = '########'
 
 def get_username():
@@ -11,3 +11,7 @@ def get_password():
 def get_mfa_code():
     totp = pyotp.TOTP("############").now()
     return totp
+
+# If this file is executed, OTP is printed.
+if __name__ == "__main__":
+    print(get_mfa_code())
