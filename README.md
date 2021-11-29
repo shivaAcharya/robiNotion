@@ -6,6 +6,7 @@ This program is to get stock info (ticker, no. of shares, current price) from ro
     1. Go to loginInfo.py and add your username, password and MFA code from robinhood account
     2. Go to pyTion.py and add your tokenV2 from browser cookies and link to the database you want to add
     3. Execute pyTion.py file and observe the Notion database
+    4. Optional - Execute loginInfo.py if you need OTP for Robinhood Account.
 
 # Steps to Project
 
