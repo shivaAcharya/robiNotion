@@ -32,6 +32,9 @@ This program is to get stock info (ticker, no. of shares, current price) from ro
 - Work with pages and gmail notes
 - ......
 
+# My Notion Site
+https://acharya.notion.site/robiNotion-f6b0fd9f007d41918c5b8995979c8710
+
 # Inspired From:
  - https://github.com/jamalex/notion-py
  - https://github.com/jmfernandes/robin_stocks
