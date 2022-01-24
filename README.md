@@ -14,7 +14,7 @@ This program is to get stock info (ticker, no. of shares, current price) from ro
 2. Login to notion using token and link to database
 3. Write stock information in the database
 
-# Issues I Ran
+# Issues I Ran Into
 
 1. HTTPError - Invalid input
     1. Cause - Notion API has changed and large limit gets 404 error
