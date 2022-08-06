@@ -33,7 +33,7 @@ This program is to get stock info (ticker, no. of shares, current price) from ro
 - ......
 
 # My Notion Site
-https://shiva-acharya.notion.site/robiNotion-f6b0fd9f007d41918c5b8995979c8710
+https://www.notion.so/shiva-acharya/robiNotion-f6b0fd9f007d41918c5b8995979c8710
 
 # Inspired From:
  - https://github.com/jamalex/notion-py
