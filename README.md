@@ -32,8 +32,17 @@ This program is to get stock info (ticker, no. of shares, current price) from ro
 - Work with pages and gmail notes
 - ......
 
-# My Notion Site
-https://www.notion.so/shiva-acharya/robiNotion-f6b0fd9f007d41918c5b8995979c8710
+# My Website
+https://shiva-acharya.super.site/projects/robinotion
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='https://github.com/shivaAcharya/robiNotion/blob/main/RobiNotion1_Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<!-- Replace this with whatever GIF tool you used! -->
+GIF created with [LICEcap](https://www.cockos.com/licecap//) for Windows
 
 # Inspired From:
  - https://github.com/jamalex/notion-py
